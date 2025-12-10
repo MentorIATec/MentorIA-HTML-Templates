@@ -1,0 +1,64 @@
+[
+    {
+      "id": 406,
+      "nombre": "Petro Urrego vs. Colombia",
+      "anio": 2020,
+      "paises": ["COL"],
+      "articulos": ["23", "8", "25"],
+      "temas": [
+        "derechos_politicos",
+        "debido_proceso",
+        "garantias_judiciales",
+        "responsabilidad_estado"
+      ],
+      "resumen": "La Corte Interamericana analizó la destitución e inhabilitación política de una autoridad electa mediante un procedimiento administrativo, evaluando su compatibilidad con los artículos 23, 8 y 25 de la Convención Americana.",
+      "estandar_clave": "Las sanciones que restrinjan derechos políticos de autoridades electas solo son compatibles con el artículo 23 de la Convención Americana cuando derivan de una condena penal dictada por un juez competente, con pleno respeto al debido proceso y bajo criterios de legalidad, necesidad y proporcionalidad.",
+      "link_pdf": "https://www.corteidh.or.cr/docs/casos/articulos/seriec_406_esp.pdf"
+    },
+    {
+      "id": 72,
+      "nombre": "Baena Ricardo y otros vs. Panamá",
+      "anio": 2001,
+      "paises": ["PAN"],
+      "articulos": ["8", "9", "25"],
+      "temas": [
+        "debido_proceso",
+        "garantias_judiciales",
+        "responsabilidad_estado"
+      ],
+      "resumen": "La Corte Interamericana examinó la destitución masiva de trabajadores públicos mediante procedimientos administrativos sin garantías suficientes, analizando la aplicación del debido proceso y el principio de legalidad en materia sancionatoria.",
+      "estandar_clave": "El Estado debe garantizar el debido proceso en cualquier procedimiento sancionatorio, incluso administrativo, asegurando el respeto a las garantías judiciales y al principio de legalidad, cuando las decisiones estatales tengan efectos punitivos o restrictivos de derechos.",
+      "link_pdf": "https://www.corteidh.or.cr/docs/casos/articulos/seriec_72_esp.pdf"
+    },
+    {
+      "id": 209,
+      "nombre": "Radilla Pacheco vs. México",
+      "anio": 2009,
+      "paises": ["MEX"],
+      "articulos": ["1.1", "2", "8", "25"],
+      "temas": [
+        "control_convencionalidad",
+        "obligacion_respetar",
+        "obligacion_garantizar",
+        "responsabilidad_estado"
+      ],
+      "resumen": "La Corte Interamericana analizó la desaparición forzada de una persona y estableció obligaciones estatales en materia de adecuación normativa y control de convencionalidad por parte de todas las autoridades internas.",
+      "estandar_clave": "Todas las autoridades del Estado, y no solo los jueces constitucionales, están obligadas a ejercer un control de convencionalidad ex officio, en el marco de sus competencias, para asegurar la compatibilidad de las normas y prácticas internas con la Convención Americana.",
+      "link_pdf": "https://www.corteidh.or.cr/docs/casos/articulos/seriec_209_esp.pdf"
+    },
+    {
+      "id": 340,
+      "nombre": "Lagos del Campo vs. Perú",
+      "anio": 2017,
+      "paises": ["PER"],
+      "articulos": ["13", "26", "8", "25"],
+      "temas": [
+        "libertad_expresion",
+        "debido_proceso",
+        "responsabilidad_estado"
+      ],
+      "resumen": "La Corte Interamericana examinó la terminación laboral de un representante de los trabajadores por declaraciones críticas, desarrollando estándares sobre libertad de expresión en el contexto de relaciones laborales y la responsabilidad estatal.",
+      "estandar_clave": "La libertad de expresión protege especialmente las manifestaciones realizadas en contextos de interés público, incluso en el ámbito laboral, y el Estado puede incurrir en responsabilidad internacional cuando no previene o repara restricciones indebidas impuestas por particulares.",
+      "link_pdf": "https://www.corteidh.or.cr/docs/casos/articulos/seriec_340_esp.pdf"
+    }
+  ]
