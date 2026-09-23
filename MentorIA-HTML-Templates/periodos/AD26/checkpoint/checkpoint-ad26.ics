@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mentoria MTY//Checkpoint AD26//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:checkpoint-ad26-20260930@mentoria-mty
+DTSTAMP:20260923T223042Z
+DTSTART:20260930T150000Z
+DTEND:20260930T210000Z
+SUMMARY:Checkpoint de Transferencias · Campus Monterrey
+LOCATION:Jardín de Piedra del Wellness Center\, Campus Monterrey
+DESCRIPTION:Segundo encuentro de Mentoría Estudiantil después de la bie
+ nvenida para conectar con estudiantes de transferencia. Actividades\, sn
+ acks y conversación con mentores y Linkers: estudiantes que ya vivieron
+  la transferencia a Campus Monterrey. Ven cuando puedas de 9:00 a 15:00 
+ h (hora de Monterrey). No necesitas quedarte toda la jornada. Lleva tu t
+ ermo.
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Hoy es Checkpoint. Pasa entre las 9:00 y las 15:00. Lleva tu 
+ termo.
+END:VALARM
+END:VEVENT
+END:VCALENDAR
