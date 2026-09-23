@@ -5,7 +5,9 @@ Repositorio para almacenar plantillas HTML de mentoria universitaria y una libre
 ## Estructura
 - `base/template_base.html`: plantilla base con variables reutilizables.
 - `base/estilos_referencia.md`: guia rapida de estilos visuales.
-- `segmentos/`: plantillas por segmento o momento academico.
+- `segmentos/`: plantillas reutilizables por segmento o momento academico.
+- `periodos/`: comunicaciones ligadas a un semestre especifico, organizadas por periodo y serie (ej. `periodos/AD26/semana-contigo/`).
+- `assets/`: libreria de imagenes publicas; los recursos especificos de un periodo pueden agruparse en subcarpetas como `assets/AD26/`.
 - `assets/imagenes.md`: listado de URLs publicas para imagenes.
 - `prompts/prompt_generador_html.md`: prompt estandar para generar nuevos correos.
 
